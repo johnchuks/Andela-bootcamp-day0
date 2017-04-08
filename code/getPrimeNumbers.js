@@ -1,4 +1,10 @@
-function getPrimes(num) {
+
+'use strict'
+
+module.exports = {
+
+
+getPrimes : function(num) {
   
   var primeNum = [];
   
@@ -37,4 +43,5 @@ function getPrimes(num) {
   return primeNum ;
 }
 
-getPrimes(-1);
+}
+
