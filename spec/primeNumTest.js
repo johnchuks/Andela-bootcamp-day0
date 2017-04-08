@@ -2,8 +2,6 @@
 'use strict'
 
 
-var getPrime = new getPrimes ();
-
 var prime = require('.../code/getPrimeNumbers.js');
 
 
