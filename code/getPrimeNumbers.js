@@ -1,8 +1,7 @@
 
 'use strict'
 
-module.exports = {
-
+{
 
 getPrimes : function(num) {
   
@@ -42,6 +41,6 @@ getPrimes : function(num) {
   
   return primeNum ;
 }
-
 }
+
 
